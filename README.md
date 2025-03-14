@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...Personal Project --> ( Hacking J I O  )
 - 📫 How to reach me --> https://x.com/UtkarshKB08
 - 😄 Pronouns: he
+- 💀 My Shadow Army / Lil Partners --> Chatgpt  Gemini
 - ⚡ Fun fact: Not giving up until i acchieve what i want 
 <!---
 Genith-Utkarsh/Genith-Utkarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
