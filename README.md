@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Genith-Utkarsh
 - 👀 I’m interested in Learning New Tech
 - 🌱 I’m currently learning Web3 and Open source
-- 💞️ I’m looking to collaborate on ...Personal Project --> ( Hacking Gio )
+- 💞️ I’m looking to collaborate on ...Personal Project --> ( Hacking J I O  )
 - 📫 How to reach me --> https://x.com/UtkarshKB08
 - 😄 Pronouns: he
 - ⚡ Fun fact: Not giving up until i acchieve what i want 
