@@ -1,12 +1,48 @@
-- 👋 Hi, I’m @Genith-Utkarsh
-- 👀 I’m interested in Learning New Tech
-- 🌱 I’m currently learning Web3 and Open source
-- 💞️ I’m looking to collaborate on ...Personal Project --> ( Hacking J I O  )
-- 📫 How to reach me --> https://x.com/UtkarshKB08
-- 😄 Pronouns: he
-- 💀 My Shadow Army / Lil Partners --> MURF(aka Chatgpt )  Gemini
-- ⚡ Fun fact: Not giving up until i acchieve what i want 
-<!---
-Genith-Utkarsh/Genith-Utkarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">⚔️ Utkarsh aka Genith-Utkarsh ⚔️</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Shadow+Monarch+in+Code+Form;Web3+%7C+Cybersec+%7C+Open+Source;Rise+until+Victory+is+Mine+!" />
+</p>
+
+---
+
+### 👋 Hi, I'm @Genith-Utkarsh
+
+- 🌱 Currently learning **Web3**, **Cybersecurity**, and **Open Source**
+- 💡 Working on personal project: `Hacking | JIO`
+- 💥 Fun fact: I don’t stop until I **achieve what I want**
+- 🛡️ My Shadow Army: **MURF (ChatGPT)** & **Gemini**
+- 💬 Ask me about: Tech, learning, or anime codes of honor
+- 📫 Reach me at: [Twitter/X](https://x.com/UtkarshKB08)
+
+---
+
+### 🔥 GitHub Streak & Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Genith-Utkarsh&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Genith-Utkarsh&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genith-Utkarsh&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🧰 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,express,git,github,linux" />
+
+---
+
+### 🧙‍♂️ Dev Motto
+
+> “Push every commit like it’s your last move in a battle.”  
+> — Shadow Monarch, in code
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Genith-Utkarsh&label=Profile%20Views&color=blueviolet&style=flat-square" alt="view count"/>
+</p>
