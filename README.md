@@ -20,7 +20,7 @@
 ### 🔥 GitHub Streak & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Genith-Utkarsh&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Genith-Utkarsh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -32,7 +32,9 @@
 
 ### 🧰 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,express,git,github,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,express,git,github,linux" />
+</p>
 
 ---
 
