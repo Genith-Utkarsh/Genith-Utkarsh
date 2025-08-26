@@ -44,6 +44,11 @@
 > “Push every commit like it’s your last move in a battle.”  
 > — Shadow Monarch, in code
 
+
+### We never forgive !
+
+![](OVO.gif)
+
 ---
 
 <p align="center">
