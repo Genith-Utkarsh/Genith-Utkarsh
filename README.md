@@ -45,9 +45,6 @@
 > — Shadow Monarch, in code
 
 
-### We never forgive !
-
-![](OVO.gif)
 
 ---
 
