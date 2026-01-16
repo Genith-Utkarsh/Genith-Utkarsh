@@ -12,7 +12,7 @@
 - 💡 Working on personal project: `Hacking | JIO`
 - 💥 Fun fact: I don’t stop until I **achieve what I want**
 - 🛡️ My Shadow Army: **MURF (ChatGPT)** & **Gemini**
-- 💬 Ask me about: Tech, learning, or anime codes of honor
+- 💬 Ask me about: web3 and web2 stuff..
 - 📫 Reach me at: [Twitter/X](https://x.com/UtkarshKB08)
 
 ---
