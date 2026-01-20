@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ NyxEos aka Utkarsh ⚔️</h1>
+<h1 align="center">⚔️ 100xUtkarsh ⚔️</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Shadow+Monarch+in+Code+Form;Web3+%7C+Cybersec+%7C+Open+Source;Rise+until+Victory+is+Mine+!" />
